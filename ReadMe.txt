@@ -1,0 +1,9 @@
+1. This program is coded in Python 3.8.0.	IDE for this program is pycharm(https://www.jetbrains.com/pycharm/)
+2. When run the program, please check the package at first, actually, only one package "numpy" needed to be installed.
+3. When run the program, please put the two original matrix files matrix1.csv and matrix2.csv in C disk directory. Otherwise, the path in the program need to be updated, and the output files generated on disk D.
+4. In this folder, Matrices folder stores 4 files (two original matrices, two generated matrices), python project is pycharm project for two versions, Python source code also contains two versions.
+5. When executing the version 1 program, I set an input question : "Please select a matrix to generate a fault : 1. A matrix; 2. B matrix. 3. C matrix (The product of the first two matrix) 4. Any matrix 5. Nothing", just type "number" and then type "enter", if you want to inject an error at matrix 1 or matrix 2, just type "1" or "2", if you want to inject an error at product matrix C, then type "3", if you want to inject arbitrary error, just type "4", if you do not want to inject error, type "5".
+6. When execution the version 2 program, I also set an input question : "Please inject an error: 1. To A.  2. To B.  3. To C   4. Nothing", just like the 5. Just type "number" and then type "enter", if you want to inject an error at matrix 1 or matrix 2, just type "1" or "2", if you want to inject an error at product matrix C, then type "3", if you do not want to inject error, type "4".
+7. Check the generated matrix, check on D:\matrix3.csv or D:\matrix4.csv.
+8. An error is generated randomly.
+9. The fault information are on the console panel of python.
